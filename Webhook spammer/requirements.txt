@@ -1,0 +1,4 @@
+PySimpleGUI
+discord
+colorama
+requests
